@@ -1,6 +1,6 @@
 # Setup MinGW-w64 to build Lua on Wine
 
-In a machine running Debian (current stable, `trixie`), this guide shows how to setup MinGW ([https://sourceforge.net/projects/mingw/](https://sourceforge.net/projects/mingw/)) on Wine to build Lua from source.
+In a machine running Debian (current stable, `trixie`), this guide shows how to setup MinGW-w64 ([https://sourceforge.net/projects/mingw-w64/](https://sourceforge.net/projects/mingw-w64/)) on Wine to build Lua from source.
 
 > [!IMPORTANT]
 > 
